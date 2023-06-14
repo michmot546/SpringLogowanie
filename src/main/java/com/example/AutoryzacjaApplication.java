@@ -1,13 +1,13 @@
-package com.example.springlogowanie;
-
+package com.example;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringLogowanieApplication {
+public class AutoryzacjaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringLogowanieApplication.class, args);
+        SpringApplication.run(AutoryzacjaApplication.class, args);
     }
 
 }
+
